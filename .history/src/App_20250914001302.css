@@ -1,0 +1,15 @@
+/* index.css */
+body {
+  background-color: #fefae0;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #a2b663;
+  text-align: center;
+  background-color: #faedcd;
+  padding: 40px;
+  margin: 0;
+  border: #a2b663;
+
+}

@@ -1,0 +1,13 @@
+/* index.css */
+body {
+  background-color: #f0f8ff;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #007acc;
+  text-align: center;
+  background-color: antiquewhite;
+  padding: 40px;
+  border: 40px solid #007acc;
+}

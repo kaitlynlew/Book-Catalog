@@ -1,0 +1,16 @@
+/* index.css */
+body {
+  background-color: #fefae0;
+  font-family: sans-serif;
+}
+
+h1 {
+  height: 100vh;
+  color: #90a254;
+  text-align: center;
+  background-color: #fdf4db;
+  padding: 40px;
+  margin: 0;
+  border: 10px solid #90a254;
+
+}
